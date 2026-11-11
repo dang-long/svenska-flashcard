@@ -1,0 +1,2301 @@
+{
+  "source": "Bộ Động Từ Đầy Đủ Hơn.xlsx",
+  "schemaVersion": 1,
+  "verbs": [
+    {
+      "id": "acceptera",
+      "v0": "acceptera",
+      "v1": "accepterar",
+      "v2": "accepterade",
+      "v3": "accepterat",
+      "vi": "chấp nhận",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "agera",
+      "v0": "agera",
+      "v1": "agerar",
+      "v2": "agerade",
+      "v3": "agerat",
+      "vi": "hành động",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "arbeta",
+      "v0": "arbeta",
+      "v1": "arbetar",
+      "v2": "arbetade",
+      "v3": "arbetat",
+      "vi": "làm việc",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "bada",
+      "v0": "bada",
+      "v1": "badar",
+      "v2": "badade",
+      "v3": "badat",
+      "vi": "tắm, ngâm nước, nhúng nước",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "baka",
+      "v0": "baka",
+      "v1": "bakar",
+      "v2": "bakade",
+      "v3": "bakat",
+      "vi": "làm bánh",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "berätta",
+      "v0": "berätta",
+      "v1": "berättar",
+      "v2": "berättade",
+      "v3": "berättat",
+      "vi": "kể, nói cho biết",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "betala",
+      "v0": "betala",
+      "v1": "betalar",
+      "v2": "betalade",
+      "v3": "betalat",
+      "vi": "trả tiền",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "borsta",
+      "v0": "borsta",
+      "v1": "borstar",
+      "v2": "borstade",
+      "v3": "borstat",
+      "vi": "đánh răng",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "bruka",
+      "v0": "bruka",
+      "v1": "brukar",
+      "v2": "brukade",
+      "v3": "brukat",
+      "vi": "thường, có thói quen",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "bädda",
+      "v0": "bädda",
+      "v1": "bäddar",
+      "v2": "bäddade",
+      "v3": "bäddat",
+      "vi": "trải giường",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "cykla",
+      "v0": "cykla",
+      "v1": "cyklar",
+      "v2": "cyklade",
+      "v3": "cyklat",
+      "vi": "đạp xe",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "dansa",
+      "v0": "dansa",
+      "v1": "dansar",
+      "v2": "dansade",
+      "v3": "dansat",
+      "vi": "nhảy, khiêu vũ",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "diska",
+      "v0": "diska",
+      "v1": "diskar",
+      "v2": "diskade",
+      "v3": "diskat",
+      "vi": "rửa chén",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "duka",
+      "v0": "duka",
+      "v1": "dukar",
+      "v2": "dukade",
+      "v3": "dukat",
+      "vi": "dọn bữa ăn",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "duscha",
+      "v0": "duscha",
+      "v1": "duschar",
+      "v2": "duschade",
+      "v3": "duschat",
+      "vi": "tắm vòi sen",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "döda",
+      "v0": "döda",
+      "v1": "dödar",
+      "v2": "dödade",
+      "v3": "dödat",
+      "vi": "giết chết",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "fiska",
+      "v0": "fiska",
+      "v1": "fiskar",
+      "v2": "fiskade",
+      "v3": "fiskat",
+      "vi": "câu cá",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "flytta",
+      "v0": "flytta",
+      "v1": "flyttar",
+      "v2": "flyttade",
+      "v3": "flyttat",
+      "vi": "dọn nhà",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "fostra",
+      "v0": "fostra",
+      "v1": "fostrar",
+      "v2": "fostrade",
+      "v3": "fostrat",
+      "vi": "nuôi nấng, dạy dỗ",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "fotografera",
+      "v0": "fotografera",
+      "v1": "fotograferar",
+      "v2": "fotograferade",
+      "v3": "fotograferat",
+      "vi": "chụp hình",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "fuska",
+      "v0": "fuska",
+      "v1": "fuskar",
+      "v2": "fuskade",
+      "v3": "fuskat",
+      "vi": "quay cóp, gian lận",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "färga",
+      "v0": "färga",
+      "v1": "färgar",
+      "v2": "färgade",
+      "v3": "färgat",
+      "vi": "tô màu",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "förlora",
+      "v0": "förlora",
+      "v1": "förlorar",
+      "v2": "förlorade",
+      "v3": "förlorat",
+      "vi": "mất",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "förlova-sig",
+      "v0": "förlova sig",
+      "v1": "förlovar sig",
+      "v2": "förlovade sig",
+      "v3": "förlovat sig",
+      "vi": "đính hôn",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "forandra",
+      "v0": "förändra",
+      "v1": "förändrar",
+      "v2": "förändrade",
+      "v3": "förändrat",
+      "vi": "förändra",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "gapa",
+      "v0": "gapa",
+      "v1": "gapar",
+      "v2": "gapade",
+      "v3": "gapat",
+      "vi": "há miệng, hét lên",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "gilla",
+      "v0": "gilla",
+      "v1": "gillar",
+      "v2": "gillade",
+      "v3": "gillat",
+      "vi": "thích, mến",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "gissa",
+      "v0": "gissa",
+      "v1": "gissar",
+      "v2": "gissade",
+      "v3": "gisssat",
+      "vi": "đoán",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "gäspa",
+      "v0": "gäspa",
+      "v1": "gäspar",
+      "v2": "gäspade",
+      "v3": "gäspat",
+      "vi": "ngáp",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "halka",
+      "v0": "halka",
+      "v1": "halkar",
+      "v2": "halkade",
+      "v3": "halkat",
+      "vi": "trượt",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "handla",
+      "v0": "handla",
+      "v1": "handlar",
+      "v2": "handlade",
+      "v3": "handlat",
+      "vi": "mua sắm",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "hata",
+      "v0": "hata",
+      "v1": "hatar",
+      "v2": "hatade",
+      "v3": "hatat",
+      "vi": "ghét",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "hitta",
+      "v0": "hitta",
+      "v1": "hittar",
+      "v2": "hittade",
+      "v3": "hittat",
+      "vi": "tìm, kiếm",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "hoppa",
+      "v0": "hoppa",
+      "v1": "hoppar",
+      "v2": "hoppade",
+      "v3": "hoppat",
+      "vi": "nhảy lên",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "hoppas",
+      "v0": "hoppas",
+      "v1": "hoppas",
+      "v2": "hoppades",
+      "v3": "hoppats",
+      "vi": "hy vọng",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "hosta",
+      "v0": "hosta",
+      "v1": "hostar",
+      "v2": "hostade",
+      "v3": "hostat",
+      "vi": "ho",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "hälsa",
+      "v0": "hälsa",
+      "v1": "hälsar",
+      "v2": "hälsade",
+      "v3": "hälsat",
+      "vi": "chào hỏi",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "hämta",
+      "v0": "hämta",
+      "v1": "hämtar",
+      "v2": "hämtade",
+      "v3": "hämtat",
+      "vi": "đón về",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "jobba",
+      "v0": "jobba",
+      "v1": "jobbar",
+      "v2": "jobbade",
+      "v3": "jobbat",
+      "vi": "làm việc",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "kalla",
+      "v0": "kalla",
+      "v1": "kallar",
+      "v2": "kallade",
+      "v3": "kallat",
+      "vi": "gọi tên, gọi là",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "kamma-sig",
+      "v0": "kamma sig",
+      "v1": "kammar sig",
+      "v2": "kammade sig",
+      "v3": "kammat sig",
+      "vi": "chải tóc",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "kasta",
+      "v0": "kasta",
+      "v1": "kastar",
+      "v2": "kastade",
+      "v3": "kastat",
+      "vi": "ném",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "kissa",
+      "v0": "kissa",
+      "v1": "kissar",
+      "v2": "kissade",
+      "v3": "kissat",
+      "vi": "đi tiểu",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "klappa",
+      "v0": "klappa",
+      "v1": "klappar",
+      "v2": "klappade",
+      "v3": "klappat",
+      "vi": "vuốt ve",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "klättra",
+      "v0": "klättra",
+      "v1": "klättrar",
+      "v2": "klättrade",
+      "v3": "klättrat",
+      "vi": "trèo",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "knacka",
+      "v0": "knacka",
+      "v1": "knackar",
+      "v2": "knackade",
+      "v3": "knackat",
+      "vi": "gõ cửa",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "knarka",
+      "v0": "knarka",
+      "v1": "knarkar",
+      "v2": "knarkade",
+      "v3": "knarkat",
+      "vi": "nghiện",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "kontrollera",
+      "v0": "kontrollera",
+      "v1": "kontrollerar",
+      "v2": "kontrollerade",
+      "v3": "kontrollerat",
+      "vi": "điều chỉnh, kiểm tra",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "kosta",
+      "v0": "kosta",
+      "v1": "kostar",
+      "v2": "kostade",
+      "v3": "kostat",
+      "vi": "trị giá",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "krama",
+      "v0": "krama",
+      "v1": "kramar",
+      "v2": "kramade",
+      "v3": "kramat",
+      "vi": "ôm ấp",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "laga",
+      "v0": "laga",
+      "v1": "lagar",
+      "v2": "lagade",
+      "v3": "lagat",
+      "vi": "nấu nướng, sửa chữa",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "leta",
+      "v0": "leta",
+      "v1": "letar",
+      "v2": "letade",
+      "v3": "letat",
+      "vi": "tìm, kiếm",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "lova",
+      "v0": "lova",
+      "v1": "lovar",
+      "v2": "lovade",
+      "v3": "lovat",
+      "vi": "hứa hẹn",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "lukta",
+      "v0": "lukta",
+      "v1": "luktar",
+      "v2": "luktade",
+      "v3": "luktat",
+      "vi": "bốc mùi",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "lyssna",
+      "v0": "lyssna",
+      "v1": "lyssnar",
+      "v2": "lyssnade",
+      "v3": "lyssnat",
+      "vi": "lắng nghe",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "låna",
+      "v0": "låna",
+      "v1": "lånar",
+      "v2": "lånade",
+      "v3": "lånat",
+      "vi": "mượn, vay",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "lämna",
+      "v0": "lämna",
+      "v1": "lämnar",
+      "v2": "lämnade",
+      "v3": "lämnat",
+      "vi": "đưa, trao, giao",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "längta",
+      "v0": "längta",
+      "v1": "längtar",
+      "v2": "längtade",
+      "v3": "längtat",
+      "vi": "nhớ nhung",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "måla",
+      "v0": "måla",
+      "v1": "målar",
+      "v2": "målade",
+      "v3": "målat",
+      "vi": "tô màu, sơn",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "odla",
+      "v0": "odla",
+      "v1": "odlar",
+      "v2": "odlade",
+      "v3": "odlat",
+      "vi": "trồng",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "passa",
+      "v0": "passa",
+      "v1": "passar",
+      "v2": "passade",
+      "v3": "passat",
+      "vi": "hợp, vừa, chăm sóc",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "plugga",
+      "v0": "plugga",
+      "v1": "pluggar",
+      "v2": "pluggade",
+      "v3": "pluggat",
+      "vi": "học",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "praktisera",
+      "v0": "praktisera",
+      "v1": "praktiserar",
+      "v2": "praktiserade",
+      "v3": "praktiserat",
+      "vi": "thực tập",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "prata",
+      "v0": "prata",
+      "v1": "pratar",
+      "v2": "pratade",
+      "v3": "pratat",
+      "vi": "nói",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "promenera",
+      "v0": "promenera",
+      "v1": "promenerar",
+      "v2": "promenerade",
+      "v3": "promenerat",
+      "vi": "đi dạo",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "prova",
+      "v0": "prova",
+      "v1": "provar",
+      "v2": "provade",
+      "v3": "provat",
+      "vi": "thử",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "pussa",
+      "v0": "pussa",
+      "v1": "pussar",
+      "v2": "pussade",
+      "v3": "pusssat",
+      "vi": "hôn",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "raka-(sig)",
+      "v0": "raka (sig)",
+      "v1": "rakar (sig)",
+      "v2": "rakade (sig)",
+      "v3": "rakat (sig)",
+      "vi": "cạo râu",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "regna",
+      "v0": "regna",
+      "v1": "regnar",
+      "v2": "regnade",
+      "v3": "regnat",
+      "vi": "mưa",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "reparera",
+      "v0": "reparera",
+      "v1": "reparerar",
+      "v2": "reparerade",
+      "v3": "reparerat",
+      "vi": "sửa chữa",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "rita",
+      "v0": "rita",
+      "v1": "ritar",
+      "v2": "ritade",
+      "v3": "ritat",
+      "vi": "vẽ",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "ropa",
+      "v0": "ropa",
+      "v1": "ropar",
+      "v2": "ropade",
+      "v3": "ropat",
+      "vi": "kêu, gọi",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "rädda",
+      "v0": "rädda",
+      "v1": "räddar",
+      "v2": "räddade",
+      "v3": "räddat",
+      "vi": "cứu thoát",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "räkna",
+      "v0": "räkna",
+      "v1": "räknar",
+      "v2": "räknade",
+      "v3": "räknat",
+      "vi": "đếm, tính",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "sakna",
+      "v0": "sakna",
+      "v1": "saknar",
+      "v2": "saknade",
+      "v3": "saknat",
+      "vi": "thiếu",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "salta",
+      "v0": "salta",
+      "v1": "saltar",
+      "v2": "saltade",
+      "v3": "saltat",
+      "vi": "ướp muối",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "simma",
+      "v0": "simma",
+      "v1": "simmar",
+      "v2": "simmade",
+      "v3": "simmat",
+      "vi": "bơi",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "skaffa",
+      "v0": "skaffa",
+      "v1": "skaffar",
+      "v2": "skaffade",
+      "v3": "skaffat",
+      "vi": "làm, tạo ra",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "skala",
+      "v0": "skala",
+      "v1": "skalar",
+      "v2": "skalade",
+      "v3": "skalat",
+      "vi": "gọt vỏ",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "skapa",
+      "v0": "skapa",
+      "v1": "skapar",
+      "v2": "skapade",
+      "v3": "skapat",
+      "vi": "tạo nên, tạo ra",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "skicka",
+      "v0": "skicka",
+      "v1": "skickar",
+      "v2": "skickade",
+      "v3": "skickat",
+      "vi": "gửi",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "skoja",
+      "v0": "skoja",
+      "v1": "skojar",
+      "v2": "skojade",
+      "v3": "skojat",
+      "vi": "nói đùa",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "skratta",
+      "v0": "skratta",
+      "v1": "skrattar",
+      "v2": "skrattade",
+      "v3": "skrattat",
+      "vi": "cười",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "skynda-sig",
+      "v0": "skynda sig",
+      "v1": "skyndar sig",
+      "v2": "skyndade sig",
+      "v3": "skyndat sig",
+      "vi": "làm gấp",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "skåla",
+      "v0": "skåla",
+      "v1": "skålar",
+      "v2": "skålade",
+      "v3": "skålat",
+      "vi": "cạn chén",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "skämta",
+      "v0": "skämta",
+      "v1": "skämtar",
+      "v2": "skämtade",
+      "v3": "skämtat",
+      "vi": "nói đùa",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "slicka",
+      "v0": "slicka",
+      "v1": "slickar",
+      "v2": "slickade",
+      "v3": "slickat",
+      "vi": "liếm",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "sluta",
+      "v0": "sluta",
+      "v1": "slutar",
+      "v2": "slutade",
+      "v3": "slutat",
+      "vi": "hoàn thành",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "smaka",
+      "v0": "smaka",
+      "v1": "smakar",
+      "v2": "smakade",
+      "v3": "smakat",
+      "vi": "có vị",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "snöa",
+      "v0": "snöa",
+      "v1": "snöar",
+      "v2": "snöade",
+      "v3": "snöat",
+      "vi": "tuyết rơi",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "somna",
+      "v0": "somna",
+      "v1": "somnar",
+      "v2": "somnade",
+      "v3": "somnat",
+      "vi": "ngủ thiếp đi",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "sparka",
+      "v0": "sparka",
+      "v1": "sparkar",
+      "v2": "sparkade",
+      "v3": "sparkat",
+      "vi": "đá",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "spegla-(sig)",
+      "v0": "spegla (sig)",
+      "v1": "speglar (sig)",
+      "v2": "speglade (sig)",
+      "v3": "speglat (sig)",
+      "vi": "soi gương",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "spela",
+      "v0": "spela",
+      "v1": "spelar",
+      "v2": "spelade",
+      "v3": "spelat",
+      "vi": "chơi",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "stanna",
+      "v0": "stanna",
+      "v1": "stannar",
+      "v2": "stannade",
+      "v3": "stannat",
+      "vi": "dừng",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "starta",
+      "v0": "starta",
+      "v1": "startar",
+      "v2": "startade",
+      "v3": "startat",
+      "vi": "bắt đầu",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "stoppa",
+      "v0": "stoppa",
+      "v1": "stoppar",
+      "v2": "stoppade",
+      "v3": "stoppat",
+      "vi": "dừng",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "studera",
+      "v0": "studera",
+      "v1": "studerar",
+      "v2": "studerade",
+      "v3": "studerat",
+      "vi": "học",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "städa",
+      "v0": "städa",
+      "v1": "städar",
+      "v2": "städade",
+      "v3": "städat",
+      "vi": "quét dọn",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "sucka",
+      "v0": "sucka",
+      "v1": "suckar",
+      "v2": "suckade",
+      "v3": "suckat",
+      "vi": "thở dài",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "svara",
+      "v0": "svara",
+      "v1": "svarar",
+      "v2": "svarade",
+      "v3": "svarat",
+      "vi": "trả lời",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "svimma",
+      "v0": "svimma",
+      "v1": "svimmar",
+      "v2": "svimmade",
+      "v3": "svimmat",
+      "vi": "xỉu",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "tacka",
+      "v0": "tacka",
+      "v1": "tackar",
+      "v2": "tackade",
+      "v3": "tackat",
+      "vi": "cám ơn",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "tappa",
+      "v0": "tappa",
+      "v1": "tappar",
+      "v2": "tappade",
+      "v3": "tappat",
+      "vi": "đánh rơi",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "titta",
+      "v0": "titta",
+      "v1": "tittar",
+      "v2": "tittade",
+      "v3": "tittat",
+      "vi": "xem, nhìn",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "tjäna",
+      "v0": "tjäna",
+      "v1": "tjänar",
+      "v2": "tjänade",
+      "v3": "tjänat",
+      "vi": "kiếm tiền, giữ chức vụ",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "torka",
+      "v0": "torka",
+      "v1": "torkar",
+      "v2": "torkade",
+      "v3": "torkat",
+      "vi": "phơi khô",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "träffa",
+      "v0": "träffa",
+      "v1": "träffar",
+      "v2": "träffade",
+      "v3": "träffat",
+      "vi": "gặp",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "tugga",
+      "v0": "tugga",
+      "v1": "tuggar",
+      "v2": "tuggade",
+      "v3": "tuggat",
+      "vi": "nhai",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "tvätta-(sig)",
+      "v0": "tvätta (sig)",
+      "v1": "tvättar (sig)",
+      "v2": "tvättade (sig)",
+      "v3": "tvättat (sig)",
+      "vi": "giặt",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "tävla",
+      "v0": "tävla",
+      "v1": "tävlar",
+      "v2": "tävlade",
+      "v3": "tävlat",
+      "vi": "thi đấu",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "vakna",
+      "v0": "vakna",
+      "v1": "vaknar",
+      "v2": "vaknade",
+      "v3": "vaknat",
+      "vi": "thức dậy",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "vattna",
+      "v0": "vattna",
+      "v1": "vattnar",
+      "v2": "vattnade",
+      "v3": "vattnat",
+      "vi": "tưới nước",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "vila",
+      "v0": "vila",
+      "v1": "vilar",
+      "v2": "vilade",
+      "v3": "vilat",
+      "vi": "nghỉ ngơi",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "vinka",
+      "v0": "vinka",
+      "v1": "vinkar",
+      "v2": "vinkade",
+      "v3": "vinkat",
+      "vi": "vẫy chào",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "visa",
+      "v0": "visa",
+      "v1": "visar",
+      "v2": "visade",
+      "v3": "visat",
+      "vi": "chỉ cho xem",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "viska",
+      "v0": "viska",
+      "v1": "viskar",
+      "v2": "viskade",
+      "v3": "viskat",
+      "vi": "nói thầm",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "vispa",
+      "v0": "vispa",
+      "v1": "vispar",
+      "v2": "vispade",
+      "v3": "vispat",
+      "vi": "đánh trứng",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "vissla",
+      "v0": "vissla",
+      "v1": "visslar",
+      "v2": "visslade",
+      "v3": "visslat",
+      "vi": "huýt sáo",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "våga",
+      "v0": "våga",
+      "v1": "vågar",
+      "v2": "vågade",
+      "v3": "vågat",
+      "vi": "dám làm",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "vänta",
+      "v0": "vänta",
+      "v1": "väntar",
+      "v2": "väntade",
+      "v3": "väntat",
+      "vi": "chờ, đợi",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "växla",
+      "v0": "växla",
+      "v1": "växlar",
+      "v2": "växlade",
+      "v3": "växlat",
+      "vi": "chuyển đổi",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "ångra",
+      "v0": "ångra",
+      "v1": "ångrar",
+      "v2": "ångrade",
+      "v3": "ångrat",
+      "vi": "hối hận",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "älska",
+      "v0": "älska",
+      "v1": "älskar",
+      "v2": "älskade",
+      "v3": "älskat",
+      "vi": "yêu",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "ändra",
+      "v0": "ändra",
+      "v1": "ändrar",
+      "v2": "ändrade",
+      "v3": "ändrat",
+      "vi": "thay đổi",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "önska",
+      "v0": "önska",
+      "v1": "önskar",
+      "v2": "önskade",
+      "v3": "önskat",
+      "vi": "mong muốn",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "öppna",
+      "v0": "öppna",
+      "v1": "öppnar",
+      "v2": "öppnade",
+      "v3": "öppnat",
+      "vi": "mở",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "öva",
+      "v0": "öva",
+      "v1": "övar",
+      "v2": "övade",
+      "v3": "övat",
+      "vi": "luyện tập",
+      "group": "Nhóm 1: nhóm động từ ở thì hiện tại có đuôi ar, khi chuyển sang quá khứ thì thêm de vào sau động từ nguyên mẫu, khi chuyển sang thì quá khứ phân từ thì bỏ de thêm t"
+    },
+    {
+      "id": "anmala-sig",
+      "v0": "anmäla sig",
+      "v1": "anmäler sig",
+      "v2": "anmälde sig",
+      "v3": "anmält sig",
+      "vi": "đăng ký",
+      "group": "Nhóm 2a:  nhóm động từ ở thì hiện tại có đuôi là er, khi chuyển sang dạng quá khứ thì bỏ đuôi er thêm de, chuyển sang quá khứ phân từ sẽ bỏ er thêm t."
+    },
+    {
+      "id": "använda",
+      "v0": "använda",
+      "v1": "användar",
+      "v2": "användade",
+      "v3": "användat",
+      "vi": "sử dụng",
+      "group": "Nhóm 2a:  nhóm động từ ở thì hiện tại có đuôi là er, khi chuyển sang dạng quá khứ thì bỏ đuôi er thêm de, chuyển sang quá khứ phân từ sẽ bỏ er thêm t."
+    },
+    {
+      "id": "behöva",
+      "v0": "behöva",
+      "v1": "behöver",
+      "v2": "behövde",
+      "v3": "behövt",
+      "vi": "cần, muốn",
+      "group": "Nhóm 2a:  nhóm động từ ở thì hiện tại có đuôi là er, khi chuyển sang dạng quá khứ thì bỏ đuôi er thêm de, chuyển sang quá khứ phân từ sẽ bỏ er thêm t."
+    },
+    {
+      "id": "beställa",
+      "v0": "beställa",
+      "v1": "beställer",
+      "v2": "beställde",
+      "v3": "beställt",
+      "vi": "đặt chỗ",
+      "group": "Nhóm 2a:  nhóm động từ ở thì hiện tại có đuôi là er, khi chuyển sang dạng quá khứ thì bỏ đuôi er thêm de, chuyển sang quá khứ phân từ sẽ bỏ er thêm t."
+    },
+    {
+      "id": "betyda",
+      "v0": "betyda",
+      "v1": "betyder",
+      "v2": "betydde",
+      "v3": "betytt",
+      "vi": "nghĩa là",
+      "group": "Nhóm 2a:  nhóm động từ ở thì hiện tại có đuôi là er, khi chuyển sang dạng quá khứ thì bỏ đuôi er thêm de, chuyển sang quá khứ phân từ sẽ bỏ er thêm t."
+    },
+    {
+      "id": "bygga",
+      "v0": "bygga",
+      "v1": "bygger",
+      "v2": "byggde",
+      "v3": "byggt",
+      "vi": "xây dựng",
+      "group": "Nhóm 2a:  nhóm động từ ở thì hiện tại có đuôi là er, khi chuyển sang dạng quá khứ thì bỏ đuôi er thêm de, chuyển sang quá khứ phân từ sẽ bỏ er thêm t."
+    },
+    {
+      "id": "böja",
+      "v0": "böja",
+      "v1": "böjer",
+      "v2": "böjde",
+      "v3": "böjt",
+      "vi": "bẻ cong",
+      "group": "Nhóm 2a:  nhóm động từ ở thì hiện tại có đuôi là er, khi chuyển sang dạng quá khứ thì bỏ đuôi er thêm de, chuyển sang quá khứ phân từ sẽ bỏ er thêm t."
+    },
+    {
+      "id": "drömma",
+      "v0": "drömma",
+      "v1": "drömmer",
+      "v2": "drömde",
+      "v3": "drömt",
+      "vi": "ước mơ",
+      "group": "Nhóm 2a:  nhóm động từ ở thì hiện tại có đuôi là er, khi chuyển sang dạng quá khứ thì bỏ đuôi er thêm de, chuyển sang quá khứ phân từ sẽ bỏ er thêm t."
+    },
+    {
+      "id": "fylla",
+      "v0": "fylla",
+      "v1": "lyller",
+      "v2": "fyllde",
+      "v3": "fyllt",
+      "vi": "đổ đầy",
+      "group": "Nhóm 2a:  nhóm động từ ở thì hiện tại có đuôi là er, khi chuyển sang dạng quá khứ thì bỏ đuôi er thêm de, chuyển sang quá khứ phân từ sẽ bỏ er thêm t."
+    },
+    {
+      "id": "föda",
+      "v0": "föda",
+      "v1": "föder",
+      "v2": "födde",
+      "v3": "fött",
+      "vi": "sinh ra",
+      "group": "Nhóm 2a:  nhóm động từ ở thì hiện tại có đuôi là er, khi chuyển sang dạng quá khứ thì bỏ đuôi er thêm de, chuyển sang quá khứ phân từ sẽ bỏ er thêm t."
+    },
+    {
+      "id": "följa",
+      "v0": "följa",
+      "v1": "följer",
+      "v2": "följde",
+      "v3": "följt",
+      "vi": "đi theo",
+      "group": "Nhóm 2a:  nhóm động từ ở thì hiện tại có đuôi là er, khi chuyển sang dạng quá khứ thì bỏ đuôi er thêm de, chuyển sang quá khứ phân từ sẽ bỏ er thêm t."
+    },
+    {
+      "id": "glömma",
+      "v0": "glömma",
+      "v1": "glömmer",
+      "v2": "glömde",
+      "v3": "glömt",
+      "vi": "quên",
+      "group": "Nhóm 2a:  nhóm động từ ở thì hiện tại có đuôi là er, khi chuyển sang dạng quá khứ thì bỏ đuôi er thêm de, chuyển sang quá khứ phân từ sẽ bỏ er thêm t."
+    },
+    {
+      "id": "gräva",
+      "v0": "gräva",
+      "v1": "gräver",
+      "v2": "grävde",
+      "v3": "grävt",
+      "vi": "đào, bới",
+      "group": "Nhóm 2a:  nhóm động từ ở thì hiện tại có đuôi là er, khi chuyển sang dạng quá khứ thì bỏ đuôi er thêm de, chuyển sang quá khứ phân từ sẽ bỏ er thêm t."
+    },
+    {
+      "id": "gömma",
+      "v0": "gömma",
+      "v1": "gömmer",
+      "v2": "gömde",
+      "v3": "gömt",
+      "vi": "che giấu",
+      "group": "Nhóm 2a:  nhóm động từ ở thì hiện tại có đuôi là er, khi chuyển sang dạng quá khứ thì bỏ đuôi er thêm de, chuyển sang quá khứ phân từ sẽ bỏ er thêm t."
+    },
+    {
+      "id": "hyra",
+      "v0": "hyra",
+      "v1": "hyr",
+      "v2": "hyrde",
+      "v3": "hyrt",
+      "vi": "thuê, muớn",
+      "group": "Nhóm 2a:  nhóm động từ ở thì hiện tại có đuôi là er, khi chuyển sang dạng quá khứ thì bỏ đuôi er thêm de, chuyển sang quá khứ phân từ sẽ bỏ er thêm t."
+    },
+    {
+      "id": "hälla",
+      "v0": "hälla",
+      "v1": "häller",
+      "v2": "hällde",
+      "v3": "hällt",
+      "vi": "rót, chế",
+      "group": "Nhóm 2a:  nhóm động từ ở thì hiện tại có đuôi là er, khi chuyển sang dạng quá khứ thì bỏ đuôi er thêm de, chuyển sang quá khứ phân từ sẽ bỏ er thêm t."
+    },
+    {
+      "id": "hända",
+      "v0": "hända",
+      "v1": "händer",
+      "v2": "hände",
+      "v3": "hänt",
+      "vi": "xảy ra",
+      "group": "Nhóm 2a:  nhóm động từ ở thì hiện tại có đuôi là er, khi chuyển sang dạng quá khứ thì bỏ đuôi er thêm de, chuyển sang quá khứ phân từ sẽ bỏ er thêm t."
+    },
+    {
+      "id": "hänga",
+      "v0": "hänga",
+      "v1": "hänger",
+      "v2": "hängde",
+      "v3": "hängt",
+      "vi": "treo, máng",
+      "group": "Nhóm 2a:  nhóm động từ ở thì hiện tại có đuôi là er, khi chuyển sang dạng quá khứ thì bỏ đuôi er thêm de, chuyển sang quá khứ phân từ sẽ bỏ er thêm t."
+    },
+    {
+      "id": "höra",
+      "v0": "höra",
+      "v1": "hör",
+      "v2": "hörde",
+      "v3": "hört",
+      "vi": "nghe thấy",
+      "group": "Nhóm 2a:  nhóm động từ ở thì hiện tại có đuôi là er, khi chuyển sang dạng quá khứ thì bỏ đuôi er thêm de, chuyển sang quá khứ phân từ sẽ bỏ er thêm t."
+    },
+    {
+      "id": "känna",
+      "v0": "känna",
+      "v1": "känner",
+      "v2": "kände",
+      "v3": "känt",
+      "vi": "cảm thấy, quen với ai",
+      "group": "Nhóm 2a:  nhóm động từ ở thì hiện tại có đuôi là er, khi chuyển sang dạng quá khứ thì bỏ đuôi er thêm de, chuyển sang quá khứ phân từ sẽ bỏ er thêm t."
+    },
+    {
+      "id": "köra",
+      "v0": "köra",
+      "v1": "kör",
+      "v2": "körde",
+      "v3": "kört",
+      "vi": "lái",
+      "group": "Nhóm 2a:  nhóm động từ ở thì hiện tại có đuôi là er, khi chuyển sang dạng quá khứ thì bỏ đuôi er thêm de, chuyển sang quá khứ phân từ sẽ bỏ er thêm t."
+    },
+    {
+      "id": "leva",
+      "v0": "leva",
+      "v1": "lever",
+      "v2": "levde",
+      "v3": "levt",
+      "vi": "sống",
+      "group": "Nhóm 2a:  nhóm động từ ở thì hiện tại có đuôi là er, khi chuyển sang dạng quá khứ thì bỏ đuôi er thêm de, chuyển sang quá khứ phân từ sẽ bỏ er thêm t."
+    },
+    {
+      "id": "lära",
+      "v0": "lära",
+      "v1": "lär",
+      "v2": "lärde",
+      "v3": "lärt",
+      "vi": "học",
+      "group": "Nhóm 2a:  nhóm động từ ở thì hiện tại có đuôi là er, khi chuyển sang dạng quá khứ thì bỏ đuôi er thêm de, chuyển sang quá khứ phân từ sẽ bỏ er thêm t."
+    },
+    {
+      "id": "minnas",
+      "v0": "minnas",
+      "v1": "minns",
+      "v2": "mindes",
+      "v3": "mints",
+      "vi": "nhớ",
+      "group": "Nhóm 2a:  nhóm động từ ở thì hiện tại có đuôi là er, khi chuyển sang dạng quá khứ thì bỏ đuôi er thêm de, chuyển sang quá khứ phân từ sẽ bỏ er thêm t."
+    },
+    {
+      "id": "ringa",
+      "v0": "ringa",
+      "v1": "ringer",
+      "v2": "ringde",
+      "v3": "ringt",
+      "vi": "gọi điện",
+      "group": "Nhóm 2a:  nhóm động từ ở thì hiện tại có đuôi là er, khi chuyển sang dạng quá khứ thì bỏ đuôi er thêm de, chuyển sang quá khứ phân từ sẽ bỏ er thêm t."
+    },
+    {
+      "id": "slänga",
+      "v0": "slänga",
+      "v1": "slänger",
+      "v2": "slängde",
+      "v3": "slängt",
+      "vi": "ném, quăng đi",
+      "group": "Nhóm 2a:  nhóm động từ ở thì hiện tại có đuôi là er, khi chuyển sang dạng quá khứ thì bỏ đuôi er thêm de, chuyển sang quá khứ phân từ sẽ bỏ er thêm t."
+    },
+    {
+      "id": "spilla",
+      "v0": "spilla",
+      "v1": "spiller",
+      "v2": "spillde",
+      "v3": "spillt",
+      "vi": "làm tràn ra",
+      "group": "Nhóm 2a:  nhóm động từ ở thì hiện tại có đuôi là er, khi chuyển sang dạng quá khứ thì bỏ đuôi er thêm de, chuyển sang quá khứ phân từ sẽ bỏ er thêm t."
+    },
+    {
+      "id": "ställa",
+      "v0": "ställa",
+      "v1": "ställer",
+      "v2": "ställde",
+      "v3": "ställt",
+      "vi": "dựng đứng, đặt đứng",
+      "group": "Nhóm 2a:  nhóm động từ ở thì hiện tại có đuôi là er, khi chuyển sang dạng quá khứ thì bỏ đuôi er thêm de, chuyển sang quá khứ phân từ sẽ bỏ er thêm t."
+    },
+    {
+      "id": "stänga",
+      "v0": "stänga",
+      "v1": "stänger",
+      "v2": "stängde",
+      "v3": "stängt",
+      "vi": "đóng cửa",
+      "group": "Nhóm 2a:  nhóm động từ ở thì hiện tại có đuôi là er, khi chuyển sang dạng quá khứ thì bỏ đuôi er thêm de, chuyển sang quá khứ phân từ sẽ bỏ er thêm t."
+    },
+    {
+      "id": "svänga",
+      "v0": "svänga",
+      "v1": "svänger",
+      "v2": "svängde",
+      "v3": "svängt",
+      "vi": "đu đưa",
+      "group": "Nhóm 2a:  nhóm động từ ở thì hiện tại có đuôi là er, khi chuyển sang dạng quá khứ thì bỏ đuôi er thêm de, chuyển sang quá khứ phân từ sẽ bỏ er thêm t."
+    },
+    {
+      "id": "sända",
+      "v0": "sända",
+      "v1": "sänder",
+      "v2": "sände",
+      "v3": "sänt",
+      "vi": "gửi đi",
+      "group": "Nhóm 2a:  nhóm động từ ở thì hiện tại có đuôi là er, khi chuyển sang dạng quá khứ thì bỏ đuôi er thêm de, chuyển sang quá khứ phân từ sẽ bỏ er thêm t."
+    },
+    {
+      "id": "trivas",
+      "v0": "trivas",
+      "v1": "trivs",
+      "v2": "trivdes",
+      "v3": "trivts",
+      "vi": "thích, cảm thấy dễ chịu",
+      "group": "Nhóm 2a:  nhóm động từ ở thì hiện tại có đuôi là er, khi chuyển sang dạng quá khứ thì bỏ đuôi er thêm de, chuyển sang quá khứ phân từ sẽ bỏ er thêm t."
+    },
+    {
+      "id": "tända",
+      "v0": "tända",
+      "v1": "tänder",
+      "v2": "tände",
+      "v3": "tänt",
+      "vi": "châm lửa",
+      "group": "Nhóm 2a:  nhóm động từ ở thì hiện tại có đuôi là er, khi chuyển sang dạng quá khứ thì bỏ đuôi er thêm de, chuyển sang quá khứ phân từ sẽ bỏ er thêm t."
+    },
+    {
+      "id": "väga",
+      "v0": "väga",
+      "v1": "väger",
+      "v2": "vägde",
+      "v3": "vägt",
+      "vi": "cân, đo",
+      "group": "Nhóm 2a:  nhóm động từ ở thì hiện tại có đuôi là er, khi chuyển sang dạng quá khứ thì bỏ đuôi er thêm de, chuyển sang quá khứ phân từ sẽ bỏ er thêm t."
+    },
+    {
+      "id": "vända",
+      "v0": "vända",
+      "v1": "vänder",
+      "v2": "vände",
+      "v3": "vänt",
+      "vi": "chuyển hướng, quay đầu",
+      "group": "Nhóm 2a:  nhóm động từ ở thì hiện tại có đuôi là er, khi chuyển sang dạng quá khứ thì bỏ đuôi er thêm de, chuyển sang quá khứ phân từ sẽ bỏ er thêm t."
+    },
+    {
+      "id": "besöka",
+      "v0": "besöka",
+      "v1": "besöker",
+      "v2": "besökte",
+      "v3": "besökt",
+      "vi": "đi thăm, đến chơi",
+      "group": "Nhóm 2b: Động từ ở thì hiện tại có đuôi er, khi chuyển sang thì quá khứ bỏ er thêm te, chuyển sang thì hiện tại hoàn thành bỏ e."
+    },
+    {
+      "id": "blåsa",
+      "v0": "blåsa",
+      "v1": "blåser",
+      "v2": "blåste",
+      "v3": "blåst",
+      "vi": "thổi",
+      "group": "Nhóm 2b: Động từ ở thì hiện tại có đuôi er, khi chuyển sang thì quá khứ bỏ er thêm te, chuyển sang thì hiện tại hoàn thành bỏ e."
+    },
+    {
+      "id": "byta",
+      "v0": "byta",
+      "v1": "byter",
+      "v2": "bytte",
+      "v3": "bytt",
+      "vi": "đổi, thay",
+      "group": "Nhóm 2b: Động từ ở thì hiện tại có đuôi er, khi chuyển sang thì quá khứ bỏ er thêm te, chuyển sang thì hiện tại hoàn thành bỏ e."
+    },
+    {
+      "id": "dyka",
+      "v0": "dyka",
+      "v1": "dyker",
+      "v2": "dök",
+      "v3": "dykt",
+      "vi": "lặn",
+      "group": "Nhóm 2b: Động từ ở thì hiện tại có đuôi er, khi chuyển sang thì quá khứ bỏ er thêm te, chuyển sang thì hiện tại hoàn thành bỏ e."
+    },
+    {
+      "id": "försöka",
+      "v0": "försöka",
+      "v1": "försöker",
+      "v2": "försökte",
+      "v3": "försökt",
+      "vi": "cố gắng",
+      "group": "Nhóm 2b: Động từ ở thì hiện tại có đuôi er, khi chuyển sang thì quá khứ bỏ er thêm te, chuyển sang thì hiện tại hoàn thành bỏ e."
+    },
+    {
+      "id": "gifta-sig",
+      "v0": "gifta sig",
+      "v1": "gifter sig",
+      "v2": "gifte sig",
+      "v3": "gift sig",
+      "vi": "kết hôn",
+      "group": "Nhóm 2b: Động từ ở thì hiện tại có đuôi er, khi chuyển sang thì quá khứ bỏ er thêm te, chuyển sang thì hiện tại hoàn thành bỏ e."
+    },
+    {
+      "id": "heta",
+      "v0": "heta",
+      "v1": "heter",
+      "v2": "hette",
+      "v3": "hetat",
+      "vi": "tên là, gọi là",
+      "group": "Nhóm 2b: Động từ ở thì hiện tại có đuôi er, khi chuyển sang thì quá khứ bỏ er thêm te, chuyển sang thì hiện tại hoàn thành bỏ e."
+    },
+    {
+      "id": "hjälpa",
+      "v0": "hjälpa",
+      "v1": "hjälper",
+      "v2": "hjälpte",
+      "v3": "hjälpt",
+      "vi": "giúp đỡ",
+      "group": "Nhóm 2b: Động từ ở thì hiện tại có đuôi er, khi chuyển sang thì quá khứ bỏ er thêm te, chuyển sang thì hiện tại hoàn thành bỏ e."
+    },
+    {
+      "id": "klippa",
+      "v0": "klippa",
+      "v1": "klippder",
+      "v2": "klippte",
+      "v3": "klippt",
+      "vi": "cắt bằng kéo",
+      "group": "Nhóm 2b: Động từ ở thì hiện tại có đuôi er, khi chuyển sang thì quá khứ bỏ er thêm te, chuyển sang thì hiện tại hoàn thành bỏ e."
+    },
+    {
+      "id": "knäppa",
+      "v0": "knäppa",
+      "v1": "knäpper",
+      "v2": "knäppte",
+      "v3": "knäppt",
+      "vi": "bấm nút",
+      "group": "Nhóm 2b: Động từ ở thì hiện tại có đuôi er, khi chuyển sang thì quá khứ bỏ er thêm te, chuyển sang thì hiện tại hoàn thành bỏ e."
+    },
+    {
+      "id": "kyssa",
+      "v0": "kyssa",
+      "v1": "kysser",
+      "v2": "kysste",
+      "v3": "kysst",
+      "vi": "hôn",
+      "group": "Nhóm 2b: Động từ ở thì hiện tại có đuôi er, khi chuyển sang thì quá khứ bỏ er thêm te, chuyển sang thì hiện tại hoàn thành bỏ e."
+    },
+    {
+      "id": "köpa",
+      "v0": "köpa",
+      "v1": "köper",
+      "v2": "köpte",
+      "v3": "köpt",
+      "vi": "mua",
+      "group": "Nhóm 2b: Động từ ở thì hiện tại có đuôi er, khi chuyển sang thì quá khứ bỏ er thêm te, chuyển sang thì hiện tại hoàn thành bỏ e."
+    },
+    {
+      "id": "leka",
+      "v0": "leka",
+      "v1": "leker",
+      "v2": "lekte",
+      "v3": "lekt",
+      "vi": "chơi đùa",
+      "group": "Nhóm 2b: Động từ ở thì hiện tại có đuôi er, khi chuyển sang thì quá khứ bỏ er thêm te, chuyển sang thì hiện tại hoàn thành bỏ e."
+    },
+    {
+      "id": "låsa",
+      "v0": "låsa",
+      "v1": "låser",
+      "v2": "låste",
+      "v3": "låst",
+      "vi": "khóa lại",
+      "group": "Nhóm 2b: Động từ ở thì hiện tại có đuôi er, khi chuyển sang thì quá khứ bỏ er thêm te, chuyển sang thì hiện tại hoàn thành bỏ e."
+    },
+    {
+      "id": "läsa",
+      "v0": "läsa",
+      "v1": "läser",
+      "v2": "läste",
+      "v3": "läst",
+      "vi": "học, đọc",
+      "group": "Nhóm 2b: Động từ ở thì hiện tại có đuôi er, khi chuyển sang thì quá khứ bỏ er thêm te, chuyển sang thì hiện tại hoàn thành bỏ e."
+    },
+    {
+      "id": "märka",
+      "v0": "märka",
+      "v1": "märker",
+      "v2": "märkte",
+      "v3": "märkt",
+      "vi": "để ý thấy",
+      "group": "Nhóm 2b: Động từ ở thì hiện tại có đuôi er, khi chuyển sang thì quá khứ bỏ er thêm te, chuyển sang thì hiện tại hoàn thành bỏ e."
+    },
+    {
+      "id": "möta",
+      "v0": "möta",
+      "v1": "möter",
+      "v2": "mötte",
+      "v3": "mött",
+      "vi": "gặp gỡ",
+      "group": "Nhóm 2b: Động từ ở thì hiện tại có đuôi er, khi chuyển sang thì quá khứ bỏ er thêm te, chuyển sang thì hiện tại hoàn thành bỏ e."
+    },
+    {
+      "id": "resa",
+      "v0": "resa",
+      "v1": "reser",
+      "v2": "reste",
+      "v3": "rest",
+      "vi": "đi du lịch",
+      "group": "Nhóm 2b: Động từ ở thì hiện tại có đuôi er, khi chuyển sang thì quá khứ bỏ er thêm te, chuyển sang thì hiện tại hoàn thành bỏ e."
+    },
+    {
+      "id": "röka",
+      "v0": "röka",
+      "v1": "röker",
+      "v2": "rökte",
+      "v3": "rökt",
+      "vi": "hút thuốc",
+      "group": "Nhóm 2b: Động từ ở thì hiện tại có đuôi er, khi chuyển sang thì quá khứ bỏ er thêm te, chuyển sang thì hiện tại hoàn thành bỏ e."
+    },
+    {
+      "id": "sköta",
+      "v0": "sköta",
+      "v1": "sköter",
+      "v2": "skötte",
+      "v3": "skött",
+      "vi": "chăm sóc",
+      "group": "Nhóm 2b: Động từ ở thì hiện tại có đuôi er, khi chuyển sang thì quá khứ bỏ er thêm te, chuyển sang thì hiện tại hoàn thành bỏ e."
+    },
+    {
+      "id": "släcka",
+      "v0": "släcka",
+      "v1": "släcker",
+      "v2": "släckte",
+      "v3": "släckt",
+      "vi": "dập tắt",
+      "group": "Nhóm 2b: Động từ ở thì hiện tại có đuôi er, khi chuyển sang thì quá khứ bỏ er thêm te, chuyển sang thì hiện tại hoàn thành bỏ e."
+    },
+    {
+      "id": "steka",
+      "v0": "steka",
+      "v1": "steker",
+      "v2": "stekte",
+      "v3": "stekt",
+      "vi": "chiên, rán",
+      "group": "Nhóm 2b: Động từ ở thì hiện tại có đuôi er, khi chuyển sang thì quá khứ bỏ er thêm te, chuyển sang thì hiện tại hoàn thành bỏ e."
+    },
+    {
+      "id": "tycka-(om)",
+      "v0": "tycka (om)",
+      "v1": "tycker (om)",
+      "v2": "tyckte (om)",
+      "v3": "tyckt (om)",
+      "vi": "thích",
+      "group": "Nhóm 2b: Động từ ở thì hiện tại có đuôi er, khi chuyển sang thì quá khứ bỏ er thêm te, chuyển sang thì hiện tại hoàn thành bỏ e."
+    },
+    {
+      "id": "tänka",
+      "v0": "tänka",
+      "v1": "tänker",
+      "v2": "tänkte",
+      "v3": "tänkt",
+      "vi": "suy nghĩ",
+      "group": "Nhóm 2b: Động từ ở thì hiện tại có đuôi er, khi chuyển sang thì quá khứ bỏ er thêm te, chuyển sang thì hiện tại hoàn thành bỏ e."
+    },
+    {
+      "id": "upptäcka",
+      "v0": "upptäcka",
+      "v1": "upptäcker",
+      "v2": "upptäckte",
+      "v3": "upptäckt",
+      "vi": "phát hiện ra, khám phá ra",
+      "group": "Nhóm 2b: Động từ ở thì hiện tại có đuôi er, khi chuyển sang thì quá khứ bỏ er thêm te, chuyển sang thì hiện tại hoàn thành bỏ e."
+    },
+    {
+      "id": "väcka",
+      "v0": "väcka",
+      "v1": "väcker",
+      "v2": "väckte",
+      "v3": "vackt",
+      "vi": "đánh thức dậy",
+      "group": "Nhóm 2b: Động từ ở thì hiện tại có đuôi er, khi chuyển sang thì quá khứ bỏ er thêm te, chuyển sang thì hiện tại hoàn thành bỏ e."
+    },
+    {
+      "id": "växa",
+      "v0": "växa",
+      "v1": "växer",
+      "v2": "växte",
+      "v3": "växt",
+      "vi": "lớn lên",
+      "group": "Nhóm 2b: Động từ ở thì hiện tại có đuôi er, khi chuyển sang thì quá khứ bỏ er thêm te, chuyển sang thì hiện tại hoàn thành bỏ e."
+    },
+    {
+      "id": "åka",
+      "v0": "åka",
+      "v1": "åker",
+      "v2": "åkte",
+      "v3": "åkt",
+      "vi": "đi bằng phương tiện gì đó",
+      "group": "Nhóm 2b: Động từ ở thì hiện tại có đuôi er, khi chuyển sang thì quá khứ bỏ er thêm te, chuyển sang thì hiện tại hoàn thành bỏ e."
+    },
+    {
+      "id": "bero-på",
+      "v0": "bero på",
+      "v1": "beror på",
+      "v2": "berodde på",
+      "v3": "berott på",
+      "vi": "tùy thuộc, lệ thuộc vào",
+      "group": "Nhóm 3 (4% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "bo",
+      "v0": "bo",
+      "v1": "bor",
+      "v2": "bodde",
+      "v3": "bott",
+      "vi": "sống, ở",
+      "group": "Nhóm 3 (4% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "klä",
+      "v0": "klä",
+      "v1": "klär",
+      "v2": "klädde",
+      "v3": "klätt",
+      "vi": "mặc",
+      "group": "Nhóm 3 (4% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "må",
+      "v0": "må",
+      "v1": "mår",
+      "v2": "mådde",
+      "v3": "mått",
+      "vi": "cảm thấy",
+      "group": "Nhóm 3 (4% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "ro",
+      "v0": "ro",
+      "v1": "ror",
+      "v2": "rodde",
+      "v3": "rott",
+      "vi": "chèo thuyền",
+      "group": "Nhóm 3 (4% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "sy",
+      "v0": "sy",
+      "v1": "syr",
+      "v2": "sydde",
+      "v3": "sytt",
+      "vi": "may, khâu",
+      "group": "Nhóm 3 (4% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "tro",
+      "v0": "tro",
+      "v1": "tror",
+      "v2": "trodde",
+      "v3": "trott",
+      "vi": "nghĩ",
+      "group": "Nhóm 3 (4% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "be",
+      "v0": "be",
+      "v1": "ber",
+      "v2": "bad",
+      "v3": "bett",
+      "vi": "van xin",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "bjuda",
+      "v0": "bjuda",
+      "v1": "bjuder",
+      "v2": "bjöd",
+      "v3": "bjudit",
+      "vi": "mời",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "bli",
+      "v0": "bli",
+      "v1": "blir",
+      "v2": "blev",
+      "v3": "blivit",
+      "vi": "trở nên",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "bryta",
+      "v0": "bryta",
+      "v1": "bryter",
+      "v2": "bröt",
+      "v3": "brutit",
+      "vi": "bẻ, làm gảy",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "bära",
+      "v0": "bära",
+      "v1": "bär",
+      "v2": "bar",
+      "v3": "burit",
+      "vi": "mang, vác",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "dricka",
+      "v0": "dricka",
+      "v1": "dricker",
+      "v2": "drack",
+      "v3": "druckit",
+      "vi": "uống",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "dö",
+      "v0": "dö",
+      "v1": "dör",
+      "v2": "dog",
+      "v3": "dött",
+      "vi": "chết",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "falla",
+      "v0": "falla",
+      "v1": "faller",
+      "v2": "föll",
+      "v3": "fallit",
+      "vi": "rơi, té",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "finna",
+      "v0": "finna",
+      "v1": "finner",
+      "v2": "fann",
+      "v3": "funnit",
+      "vi": "tìm",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "finnas",
+      "v0": "finnas",
+      "v1": "finns",
+      "v2": "fanns",
+      "v3": "funnits",
+      "vi": "có, tồn tại",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "flyga",
+      "v0": "flyga",
+      "v1": "flyger",
+      "v2": "flög",
+      "v3": "flugit",
+      "vi": "bay",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "fortsätta",
+      "v0": "fortsätta",
+      "v1": "fortsätter",
+      "v2": "fortsatte",
+      "v3": "fortsatt",
+      "vi": "kéo dài, tiếp tục",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "frysa",
+      "v0": "frysa",
+      "v1": "fryser",
+      "v2": "frös",
+      "v3": "frusit",
+      "vi": "bị cóng, bị lạnh cóng",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "få",
+      "v0": "få",
+      "v1": "får",
+      "v2": "fick",
+      "v3": "fått",
+      "vi": "được, nhận được",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "förstå",
+      "v0": "förstå",
+      "v1": "förstår",
+      "v2": "förstod",
+      "v3": "förstått",
+      "vi": "hiểu",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "ge",
+      "v0": "ge",
+      "v1": "ger",
+      "v2": "gav",
+      "v3": "gett (givit)",
+      "vi": "cho, trao cho",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "gråta",
+      "v0": "gråta",
+      "v1": "gråter",
+      "v2": "grät",
+      "v3": "gråtit",
+      "vi": "khóc",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "gå",
+      "v0": "gå",
+      "v1": "går",
+      "v2": "gick",
+      "v3": "gått",
+      "vi": "đi",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "göra",
+      "v0": "göra",
+      "v1": "gör",
+      "v2": "gjorde",
+      "v3": "gjort",
+      "vi": "làm",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "ha",
+      "v0": "ha",
+      "v1": "har",
+      "v2": "hade",
+      "v3": "haft",
+      "vi": "có",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "hinna",
+      "v0": "hinna",
+      "v1": "hinner",
+      "v2": "hann",
+      "v3": "hunnit",
+      "vi": "đến kịp, theo kịp",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "hålla",
+      "v0": "hålla",
+      "v1": "håller",
+      "v2": "höll",
+      "v3": "hållit",
+      "vi": "cầm nắm",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "knyta",
+      "v0": "knyta",
+      "v1": "knyter",
+      "v2": "knöt",
+      "v3": "knutit",
+      "vi": "buộc, cột",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "komma",
+      "v0": "komma",
+      "v1": "kommer",
+      "v2": "kom",
+      "v3": "kommit",
+      "vi": "đến",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "krypa",
+      "v0": "krypa",
+      "v1": "kryper",
+      "v2": "kröp",
+      "v3": "krupit",
+      "vi": "bò, trườn",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "kunna",
+      "v0": "kunna",
+      "v1": "kan",
+      "v2": "kunde",
+      "v3": "kunnat",
+      "vi": "có thể",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "le",
+      "v0": "le",
+      "v1": "ler",
+      "v2": "log",
+      "v3": "lett",
+      "vi": "mỉm cười",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "ligga",
+      "v0": "ligga",
+      "v1": "ligger",
+      "v2": "låg",
+      "v3": "legat",
+      "vi": "nằm",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "ljuga",
+      "v0": "ljuga",
+      "v1": "ljuger",
+      "v2": "ljög",
+      "v3": "ljugit",
+      "vi": "nói dối, lừa dối",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "låta",
+      "v0": "låta",
+      "v1": "låter",
+      "v2": "lät",
+      "v3": "låtit",
+      "vi": "cho phép, có vẻ",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "lägga",
+      "v0": "lägga",
+      "v1": "lägger",
+      "v2": "lade",
+      "v3": "lagt",
+      "vi": "đặt nằm, xếp chỗ",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "rida",
+      "v0": "rida",
+      "v1": "rider",
+      "v2": "red",
+      "v3": "ridit",
+      "vi": "cưỡi ngựa",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "se",
+      "v0": "se",
+      "v1": "ser",
+      "v2": "såg",
+      "v3": "sett",
+      "vi": "nhìn thấy",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "sitta",
+      "v0": "sitta",
+      "v1": "sitter",
+      "v2": "satt",
+      "v3": "suttit",
+      "vi": "ngồi",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "sjunga",
+      "v0": "sjunga",
+      "v1": "sjunger",
+      "v2": "sjöng",
+      "v3": "sjungit",
+      "vi": "hát",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "skjuta",
+      "v0": "skjuta",
+      "v1": "skjuter",
+      "v2": "sköt",
+      "v3": "skjutit",
+      "vi": "bắn",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "skola",
+      "v0": "skola",
+      "v1": "ska",
+      "v2": "skulle",
+      "v3": "",
+      "vi": "sẽ",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "skriva",
+      "v0": "skriva",
+      "v1": "skriver",
+      "v2": "skrev",
+      "v3": "skrivit",
+      "vi": "viết",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "skära",
+      "v0": "skära",
+      "v1": "skär",
+      "v2": "skar",
+      "v3": "skurit",
+      "vi": "cắt bằng dao",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "slå",
+      "v0": "slå",
+      "v1": "slår",
+      "v2": "slog",
+      "v3": "slagit",
+      "vi": "đánh, nện",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "snyta",
+      "v0": "snyta",
+      "v1": "snyter",
+      "v2": "snöt",
+      "v3": "snutit",
+      "vi": "hỉ mũi",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "sova",
+      "v0": "sova",
+      "v1": "sover",
+      "v2": "sov",
+      "v3": "sovit",
+      "vi": "ngủ",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "springa",
+      "v0": "springa",
+      "v1": "springer",
+      "v2": "sprang",
+      "v3": "sprungit",
+      "vi": "chạy",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "stiga",
+      "v0": "stiga",
+      "v1": "stiger",
+      "v2": "steg",
+      "v3": "stigit",
+      "vi": "lên, xuống xe",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "stjäla",
+      "v0": "stjäla",
+      "v1": "stjäl",
+      "v2": "stal",
+      "v3": "stulit",
+      "vi": "ăn trộm",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "stryka",
+      "v0": "stryka",
+      "v1": "stryker",
+      "v2": "strök",
+      "v3": "strukit",
+      "vi": "ủi, xóa",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "stå",
+      "v0": "stå",
+      "v1": "står",
+      "v2": "stod",
+      "v3": "stått",
+      "vi": "đứng",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "svära",
+      "v0": "svära",
+      "v1": "svär",
+      "v2": "svor",
+      "v3": "svurit",
+      "vi": "chửi thề",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "säga",
+      "v0": "säga",
+      "v1": "säger",
+      "v2": "sa (sade)",
+      "v3": "sagt",
+      "vi": "nói",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "sälja",
+      "v0": "sälja",
+      "v1": "säljer",
+      "v2": "sålde",
+      "v3": "sålt",
+      "vi": "bán",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "sätta",
+      "v0": "sätta",
+      "v1": "sätter",
+      "v2": "satta",
+      "v3": "suttit",
+      "vi": "đặt, đựng",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "ta",
+      "v0": "ta",
+      "v1": "tar",
+      "v2": "tog",
+      "v3": "tagit",
+      "vi": "lấy, cầm",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "vara",
+      "v0": "vara",
+      "v1": "är",
+      "v2": "var",
+      "v3": "varit",
+      "vi": "thì, là",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "veta",
+      "v0": "veta",
+      "v1": "vet",
+      "v2": "visste",
+      "v3": "vetat",
+      "vi": "biết",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "vilja",
+      "v0": "vilja",
+      "v1": "vill",
+      "v2": "ville",
+      "v3": "velat",
+      "vi": "muốn",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "vinna",
+      "v0": "vinna",
+      "v1": "vinner",
+      "v2": "vann",
+      "v3": "vunnit",
+      "vi": "thắng cuộc",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    },
+    {
+      "id": "äta",
+      "v0": "äta",
+      "v1": "äter",
+      "v2": "åt",
+      "v3": "ätit",
+      "vi": "ăn",
+      "group": "Nhóm 4 Động từ bất quy tắc (25% động từ tuân theo nguyên tắc này)"
+    }
+  ]
+}
